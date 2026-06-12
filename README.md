@@ -27,7 +27,7 @@ The engine is engineered using modular, decoupled Python layers designed for hig
 
 ## 📂 Project Directory Structure
 
-
+```text
 Smart_Retail_Intelligence/
 ├── app/
 │   ├── __init__.py
