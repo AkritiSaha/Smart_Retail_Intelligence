@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+pandas
+numpy
+scikit-learn
+xgboost
+fastapi
+uvicorn
+pydantic
